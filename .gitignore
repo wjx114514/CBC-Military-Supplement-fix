@@ -1,0 +1,12 @@
+.gradle/
+.idea/
+.vscode/
+build/
+run/
+*.iml
+
+# Local copy of the proprietary upstream mod used for compatibility testing.
+/CBC-Military-Supplement-1.21.1-2.1.0.jar
+
+# The packaged copy used by the mod lives in src/main/resources.
+/icon.png

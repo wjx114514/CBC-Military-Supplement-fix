@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.rassvet.cbc_military_supplement_fix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CbcmoreshellsNeoForgeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
